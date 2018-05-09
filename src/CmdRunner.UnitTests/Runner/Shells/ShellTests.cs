@@ -20,7 +20,7 @@ namespace CmdRunner.UnitTests.Runner.Shells
         [Fact]
         public void ShouldReturnAPowerShellRunner()
         {
-            Assert.IsAssignableFrom<Posh>(Shell.Powershell);
+            Assert.IsAssignableFrom<Pwsh>(Shell.Powershell);
         }
     }
 }

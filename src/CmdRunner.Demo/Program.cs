@@ -9,6 +9,8 @@ namespace CmdRunner.Demo
             dynamic cmd = new Cmd();
             var gitOutput = cmd.git.config(get: "user.name");
             Console.WriteLine(gitOutput);
+            var lsOutput = cmd.ls();
+            Console.WriteLine(lsOutput);
         }
     }
 }

@@ -4,7 +4,7 @@ using CmdRunner.Runner.Arguments;
 
 namespace CmdRunner.Runner.Shells
 {
-    internal class Posh : IRunner
+    internal class Pwsh : IRunner
     {
         public string Run(IRunOptions runOptions)
         {

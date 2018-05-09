@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/src/cmd.Demo/bin/Debug/netcoreapp2.0/cmd.Demo.dll",
+            "program": "${workspaceFolder}/src/CmdRunner.Demo/bin/Debug/netcoreapp2.0/CmdRunner.Demo.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/src/cmd.Demo",
+            "cwd": "${workspaceFolder}/src/CmdRunner.Demo",
             // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window
             "console": "internalConsole",
             "stopAtEntry": false,

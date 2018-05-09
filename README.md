@@ -71,7 +71,7 @@ You can use CmdRunner to run command on, well, cmd and Powershell. Choose the sh
 
 ```csharp
 dynamic cmd = new Cmd(Shell.Cmd);
-dynamic posh = new Cmd(Shell.Powershell);
+dynamic pwsh = new Cmd(Shell.Powershell);
 cmd.dir();
 ```
 `cmd.dir()` is equivalent to `cmd /c dir`
