@@ -2,11 +2,13 @@
 
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0</TargetFrameworks>
+    <AssemblyName>CmdRunner</AssemblyName>
     <PackageId>CmdRunner</PackageId>
     <IsPackable>true</IsPackable>
-    <Version>0.4.0</Version>
-    <PackageVersion>0.4.0</PackageVersion>
+    <Version>0.1.0</Version>
+    <PackageVersion>0.1.0</PackageVersion>
     <Authors>codeyu</Authors>
+    <owners>codeyu</owners>
     <Company>codeyu</Company>
     <Description>C# library to run external programs in a saner manner</Description>
     <PackageReleaseNotes>Inititial preview</PackageReleaseNotes>

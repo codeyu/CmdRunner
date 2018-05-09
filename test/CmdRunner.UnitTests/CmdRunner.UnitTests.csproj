@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CmdRunner\CmdRunner.csproj" />
+    <ProjectReference Include="..\..\src\CmdRunner\CmdRunner.csproj" />
   </ItemGroup>
 
 </Project>

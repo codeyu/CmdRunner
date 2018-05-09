@@ -5,11 +5,13 @@ VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CmdRunner", "src\CmdRunner\CmdRunner.csproj", "{DC8C0061-E246-4A23-84F6-1066F4FC99E5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CmdRunner.UnitTests", "src\CmdRunner.UnitTests\CmdRunner.UnitTests.csproj", "{6BFC548E-281A-45CB-90E3-B3D757B03D49}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7A0ADACF-61FD-43FD-BA2B-BE9FEB23BA9E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmdRunner.Demo", "src\CmdRunner.Demo\CmdRunner.Demo.csproj", "{85A7BF84-3C7D-4D84-94B6-3F6DA10898B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{E6091B12-7F7B-4FFC-A8BA-A4AAF94B7617}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CmdRunner.UnitTests", "test\CmdRunner.UnitTests\CmdRunner.UnitTests.csproj", "{6BFC548E-281A-45CB-90E3-B3D757B03D49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
