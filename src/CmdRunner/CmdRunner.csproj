@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+    <PackageId>CmdRunner</PackageId>
+    <IsPackable>true</IsPackable>
+    <Version>0.4.0</Version>
+    <PackageVersion>0.4.0</PackageVersion>
+    <Authors>codeyu</Authors>
+    <Company>codeyu</Company>
+    <Description>C# library to run external programs in a saner manner</Description>
+    <PackageReleaseNotes>Inititial preview</PackageReleaseNotes>
+    <PackageTags>cmd external program process commandline exec</PackageTags>
+    <PackageLicenseUrl>https://github.com/codeyu/CmdRunner/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/codeyu/CmdRunner</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/codeyu/CmdRunner</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
