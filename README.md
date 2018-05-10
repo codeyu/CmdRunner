@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/codeyu/CmdRunner.svg?branch=master)](https://travis-ci.org/codeyu/CmdRunner) [![Build status](https://ci.appveyor.com/api/projects/status/i1ni7r193fs4t9tq/branch/master?svg=true)](https://ci.appveyor.com/project/codeyu/CmdRunner/branch/master)
 [![NuGet Badge](https://buildstats.info/nuget/CmdRunner)](https://www.nuget.org/packages/CmdRunner/)
 
-FORK FROM: https://github.com/manojlds/cmd
+CmdRunner is a .NET Core port of [Manoj's cmd](https://github.com/manojlds/cmd)
 
 A C# Library to run external programs / commands in a simpler way. It is inspired from the [sh](https://github.com/amoffat/sh) library for Python, and is intended to showcase the "dynamic" features of C#
 
